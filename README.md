@@ -4,7 +4,7 @@ Introduction:
 
 I have experience in JavaScript, Python and SQL. Having recently completed a Generation Cloud Engineering bootcamp, I am looking to improve my skills by creating new projects.
 
-Areas in tech that interest me most are web development, data engineering and game development.
+Areas in tech that interest me most are web development, data engineering and cloud engineering.
 
 Contact Information:
 
